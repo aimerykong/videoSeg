@@ -1,0 +1,21 @@
+
+./evalPixelLevelSemanticLabeling.py  deepLab_main001_Res50FixBN_1conv_up8_v3_dilate1_2xlogistic_weight0xdiv8FT_1xLR_val_predEval
+
+
+
+
+
+
+#./evalPixelLevelSemanticLabeling.py result_val_predEval_multScale_ave
+#./evalPixelLevelSemanticLabeling.py result_val_predEval_multScale_max
+
+#./evalPixelLevelSemanticLabeling.py  result_val_predEval_scale832x1664
+#./evalPixelLevelSemanticLabeling.py  result_val_predEval_scale864x1728
+#./evalPixelLevelSemanticLabeling.py  result_val_predEval_scale896x1792
+#./evalPixelLevelSemanticLabeling.py  result_val_predEval_scale928x1856
+#./evalPixelLevelSemanticLabeling.py  result_val_predEval_scale960x1920
+#./evalPixelLevelSemanticLabeling.py  result_val_predEval_scale992x1984
+#./evalPixelLevelSemanticLabeling.py  result_val_predEval_scale1024x2048
+#./evalPixelLevelSemanticLabeling.py  result_val_predEval_scale1056x2112
+
+mv nohup.out nohup.last
